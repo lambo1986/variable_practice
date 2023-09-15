@@ -7,4 +7,6 @@ fav_num = 23
 local_news_radio = 89.9
 buck_n_quarter = 1.25
 body_temp = 98.6
-
+sunny = true
+hot = true
+rain = false
