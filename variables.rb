@@ -10,3 +10,11 @@ body_temp = 98.6
 sunny = true
 hot = true
 rain = false
+middle_name = "Boola"
+name = "Frooga Jungies"
+fav_food = "wuggaletta"
+print 5**5.3
+puts 3 == 4
+puts sunny
+puts name 
+puts "Hello, #{name}!"
