@@ -18,3 +18,6 @@ puts 3 == 4
 puts sunny
 puts name 
 puts "Hello, #{name}!"
+puts "Hello, my name is #{name} and I love to eat #{fav_food}, and also my middle na
+me is #{middle_name}..... oh also my year of birth is #{year_born} and my favorite number is #{fav_nu
+m}"
